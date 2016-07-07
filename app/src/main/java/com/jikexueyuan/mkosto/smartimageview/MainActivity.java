@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
     protected static final int ERROR = 1;
 
     EditText  ed_path;
-    ImageView iv_pic;  //用来显示图 片的imageview 控件
+    ImageView iv_pic;  //用来显 示图 片的imageview 控件
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
